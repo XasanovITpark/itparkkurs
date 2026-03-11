@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<LinearLayout
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="90dp">
+    <TextView
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:text="IT Kurslari"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#FFD600">
+        <LinearLayout
+          android:layout_weight="1"
+
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#FFD600">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+              android:src="@drawable/iii" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+android:id="@+id/kt_ln"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#FFD600">
+
+<TextView
+    android:textColor="@color/white"
+    android:textStyle="bold"
+    android:textSize="17dp"
+    android:gravity="center"
+    android:text="Kotlin Dasturlash tili"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#FFD600">
+            <TextView
+                android:textSize="24dp"
+                android:gravity="center"
+                android:text="500.000 so'm"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+
+
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#196225">
+        <LinearLayout
+            android:layout_weight="1"
+
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#00B8D4">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/img"  />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+            android:id="@+id/java_ln"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#00B8D4">
+            <TextView
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:gravity="center"
+                android:text="Java Dasturlash tili"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#00B8D4">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="500.000 so'm"
+                android:textSize="24dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+
+
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#00BFA5">
+        <LinearLayout
+            android:layout_weight="1"
+
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#64DD17">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/img_1"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+            android:id="@+id/javasc_ln"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#64DD17">
+            <TextView
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:gravity="center"
+                android:text="JavaScript Dasturlash tili"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="#64DD17">
+            <TextView
+                android:textSize="24dp"
+                android:gravity="center"
+                android:text="500.000 so'm"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+
+
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#FFD600">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:background="#D50000">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/img_2"  />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:id="@+id/python_ln"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:background="#D50000">
+
+            <TextView
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:gravity="center"
+                android:text="Python Dasturlash tili"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:background="#D50000">
+            <TextView
+                android:textSize="24dp"
+                android:gravity="center"
+                android:text="500.000 so'm"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <TextView
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:text="Created by Xasanov Xursandbek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

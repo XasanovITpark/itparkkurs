@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IT kurslar</string>
+    <string name="java_matni">        Java — bu dunyodagi eng mashhur va keng qo‘llaniladigan dasturlash tillaridan biri. U orqali siz mobil ilovalar (Android), veb dasturlar, desktop dasturlar, hatto o‘yinlar ham yaratishingiz mumkin.
+Java’ning asosiy afzalligi — “bir marta yoz, hamma joyda ishlat” tamoyilidir. Ya’ni, bitta kod turli platformalarda ham ishlay oladi.</string>
+    <string name="javascript_matni">JavaScript — bu veb-saytlarning yuragi.
+U yordamida siz interaktiv, jonli, va reaktiv veb-sahifalar yarata olasiz.
+JavaScript bugungi kunda nafaqat front-end, balki mobil va server dasturlashda ham ishlatiladi.
+Agar siz veb dasturchi bo‘lishni istasangiz — JavaScript sizning eng asosiy qurolingiz bo‘ladi.</string>
+    <string name="kotlin_matni">Kotlin — bu zamonaviy va qulay dasturlash tili bo‘lib, u Android ilovalarini yaratish uchun rasmiy tavsiya etilgan tildir.
+U Java bilan to‘liq mos, ammo undan soddaroq va ixcham.
+Kotlin yordamida siz kamroq kod bilan ko‘proq natija olasiz.
+Tezlik, xavfsizlik va soddalik — Kotlin’ning eng katta ustunliklaridir.</string>
+    <string name="python_matni">Python — bu oson, kuchli va mashhur dasturlash tili.
+U sun’iy intellekt, veb dasturlash, ma’lumotlar tahlili, va avtomatlashtirishda keng qo‘llaniladi.
+Python’ni o‘rganish juda oson, chunki uning sintaksisi sodda va tabiiy tilda yozilgandek.
+Dasturlashni endi boshlayotganlar uchun eng yaxshi tanlovlardan biridir.</string>
+</resources>
